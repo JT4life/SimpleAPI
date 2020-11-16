@@ -1,3 +1,3 @@
 # SimpleAPI
-simple height and weight API used with Postman
+Ideal Height and Weight calculator API used with Postman
 ### Subheader
